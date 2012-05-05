@@ -6,6 +6,8 @@ Open Source 101: Get Involved with GitHub
 * http://keith.lostechies.com/
 * http://www.jpcycles.com/
 
+Keith is in ur code camp, Dahlbykating ur brain.
+
 Git 101
 ====
 1. Download git: git-scm.com
