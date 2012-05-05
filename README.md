@@ -1,4 +1,7 @@
-icc9
+Open Source 101: Get Involved with GitHub
 ====
 
-Iowa Code Camp Spring 2012
+* Keith Dahlby
+* [@dahlbyk](http://twitter.com/dahlbyk)
+* http://keith.lostechies.com/
+* http://www.jpcycles.com/
