@@ -14,3 +14,4 @@ Git 101
 4. `git add -A`
 5. `git commit -m "My new commit"`
 6. `git push`
+7. Happy happy joy joy
